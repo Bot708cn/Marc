@@ -1,0 +1,6 @@
+{
+  "name": "The Wild Knead - Boulangerie Artisanale",
+  "description": "Boulangerie et pâtisserie artisanale d'exception : baguettes de tradition, viennoiseries pur beurre et créations personnalisées.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
